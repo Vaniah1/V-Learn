@@ -27,13 +27,13 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/yoom-logo.svg",
+            logoImageUrl: "/icons/icons8-book-windows-11-filled-96.png",
           },
           variables: {
-            colorText: "#fff",
-            colorPrimary: "#0E78F9",
-            colorBackground: "#1C1F2E",
-            colorInputBackground: "#252A41",
+            colorText: "#000",
+            colorPrimary: "#212121",
+            colorBackground: "#9DB2BF",
+            colorInputBackground: "#808080",
             colorInputText: "#fff",
           },
         }}
