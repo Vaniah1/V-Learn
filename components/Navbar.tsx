@@ -12,11 +12,11 @@ const Navbar = () => {
           src="/icons/icons8-book-windows-11-filled-96.png"
           width={32}
           height={32}
-          alt="V-Learn"
+          alt="AcademiHub"
           className="max-sm:size-10"
         />
         <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          V-Learn
+          AcademiHub
         </p>
       </Link>
       <div className="flex-between gap-5">

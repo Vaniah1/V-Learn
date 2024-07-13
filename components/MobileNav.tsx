@@ -29,9 +29,9 @@ const MobileNav = () => {
               src="/icons/icons8-book-windows-11-filled-16.png"
               width={32}
               height={32}
-              alt="v-learn logo"
+              alt="AcademiHublogo"
             />
-            <p className="text-[26px] font-extrabold text-white">V-Learn</p>
+            <p className="text-[26px] font-extrabold text-white">AcademiHub</p>
           </Link>
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
             <SheetClose asChild>

@@ -5,8 +5,8 @@ import Navbar from '@/components/Navbar';
 import Sidebar from '@/components/Sidebar';
 
 export const metadata: Metadata = {
-  title: 'V-Learn',
-  description: 'A workspace for your team, powered by Stream Chat and Clerk.',
+  title: 'AcademiHub',
+  description: 'School Workspace',
 };
 
 const RootLayout = ({ children }: Readonly<{children: ReactNode}>) => {
